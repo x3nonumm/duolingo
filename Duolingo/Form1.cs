@@ -14,7 +14,6 @@ namespace Duolingo
         private Button btnDailyPractice;
         private Button btnLogout;
 
-        // Элементы верхней панели для обновления
         private Label xpLabel;
         private Label levelLabel;
         private Label streakLabel;
@@ -22,7 +21,6 @@ namespace Duolingo
 
         public Form1()
         {
-            // Получаем dbHelper из Program
             dbHelper = Program.GetDatabaseHelper();
 
             if (dbHelper == null)
@@ -35,7 +33,6 @@ namespace Duolingo
 
             ShowAuthForm();
 
-            // Подписываемся на событие закрытия формы
             this.FormClosing += MainForm_FormClosing;
         }
 
@@ -43,7 +40,6 @@ namespace Duolingo
         {
             try
             {
-                // Сохраняем данные при закрытии формы
                 if (dbHelper != null)
                 {
                     dbHelper.SaveData();
@@ -64,7 +60,6 @@ namespace Duolingo
 
                 if (result == DialogResult.OK)
                 {
-                    // Получаем пользователя из формы аутентификации
                     currentUser = authForm.GetAuthenticatedUser();
 
                     if (currentUser != null)
@@ -72,7 +67,6 @@ namespace Duolingo
                         // Обновляем заголовок формы
                         this.Text = $"Duolingo - {currentUser.Username}";
 
-                        // Если форма уже инициализирована, просто обновляем
                         if (this.Controls.Count > 0)
                         {
                             RefreshUserData();
@@ -80,7 +74,6 @@ namespace Duolingo
                         }
                         else
                         {
-                            // Иначе инициализируем форму
                             InitializeMainForm();
                             ShowHomeScreen();
                             this.Show();
