@@ -15,13 +15,10 @@ namespace Duolingo
 
             try
             {
-                // Создаем DatabaseHelper (он загрузит данные из файла)
                 dbHelper = new DatabaseHelper();
 
-                // Запускаем главную форму
                 var mainForm = new Form1();
 
-                // Подписываемся на событие закрытия приложения
                 Application.ApplicationExit += OnApplicationExit;
 
                 Application.Run(mainForm);
