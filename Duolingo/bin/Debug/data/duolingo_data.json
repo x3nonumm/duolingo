@@ -1,0 +1,1050 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "Username": "Иван Петров",
+      "Email": "ivan@example.com",
+      "Experience": 1382,
+      "StreakDays": 7,
+      "Level": 3,
+      "RegistrationDate": "2025-11-02T13:05:28.3282669+03:00",
+      "CompletedLessons": 3,
+      "WordsLearned": 49,
+      "TotalTimeMinutes": 320,
+      "LastPracticeDate": "2025-12-02T13:33:48.5043747+03:00",
+      "CompletedLessonIds": [
+        1,
+        2,
+        3
+      ],
+      "WordPracticeCount": {
+        "1": 15,
+        "2": 12,
+        "3": 10,
+        "4": 8,
+        "5": 8,
+        "6": 6,
+        "7": 6,
+        "8": 10,
+        "9": 9,
+        "10": 5,
+        "11": 1,
+        "13": 1
+      },
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 2,
+      "Username": "Анна Смирнова",
+      "Email": "anna@example.com",
+      "Experience": 800,
+      "StreakDays": 3,
+      "Level": 2,
+      "RegistrationDate": "2025-11-12T13:05:28.3282669+03:00",
+      "CompletedLessons": 2,
+      "WordsLearned": 32,
+      "TotalTimeMinutes": 200,
+      "LastPracticeDate": "2025-12-02T13:05:28.3282669+03:00",
+      "CompletedLessonIds": [
+        1,
+        2
+      ],
+      "WordPracticeCount": {
+        "1": 8,
+        "2": 6,
+        "3": 5,
+        "4": 4,
+        "5": 7,
+        "6": 5,
+        "7": 3,
+        "8": 6,
+        "9": 5,
+        "10": 2
+      },
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 3,
+      "Username": "13213123",
+      "Email": "guest@example.com",
+      "Experience": 0,
+      "StreakDays": 0,
+      "Level": 1,
+      "RegistrationDate": "2025-12-02T13:40:32.4853445+03:00",
+      "CompletedLessons": 0,
+      "WordsLearned": 0,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T13:40:32.4853445+03:00",
+      "CompletedLessonIds": [],
+      "WordPracticeCount": {},
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 4,
+      "Username": "123",
+      "Email": "123@mail.ru",
+      "Experience": 0,
+      "StreakDays": 0,
+      "Level": 1,
+      "RegistrationDate": "2025-12-02T14:02:25.8621541+03:00",
+      "CompletedLessons": 0,
+      "WordsLearned": 0,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:02:25.8621541+03:00",
+      "CompletedLessonIds": [],
+      "WordPracticeCount": {},
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 5,
+      "Username": "Nagibator",
+      "Email": "нагибатор@mail.ru",
+      "Experience": 0,
+      "StreakDays": 0,
+      "Level": 1,
+      "RegistrationDate": "2025-12-02T14:17:26.1379513+03:00",
+      "CompletedLessons": 0,
+      "WordsLearned": 0,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:17:26.1379513+03:00",
+      "CompletedLessonIds": [],
+      "WordPracticeCount": {},
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 6,
+      "Username": "Nagibator2000",
+      "Email": "Nagibator2000@mail.ru",
+      "Experience": 600,
+      "StreakDays": 0,
+      "Level": 2,
+      "RegistrationDate": "2025-12-02T14:28:23.3135387+03:00",
+      "CompletedLessons": 1,
+      "WordsLearned": 9,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:29:11.4618255+03:00",
+      "CompletedLessonIds": [
+        4
+      ],
+      "WordPracticeCount": {
+        "11": 1,
+        "12": 1,
+        "13": 1
+      },
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 7,
+      "Username": "12345",
+      "Email": "12345@mail.ru",
+      "Experience": 1073,
+      "StreakDays": 0,
+      "Level": 3,
+      "RegistrationDate": "2025-12-02T14:31:52.5610029+03:00",
+      "CompletedLessons": 2,
+      "WordsLearned": 25,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:35:39.2504023+03:00",
+      "CompletedLessonIds": [
+        1,
+        2
+      ],
+      "WordPracticeCount": {
+        "1": 2,
+        "9": 1,
+        "8": 1,
+        "2": 1,
+        "4": 1,
+        "6": 2,
+        "5": 1,
+        "7": 1
+      },
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 8,
+      "Username": "111",
+      "Email": "111111@mail.ru",
+      "Experience": 0,
+      "StreakDays": 0,
+      "Level": 1,
+      "RegistrationDate": "2025-12-02T14:46:30.6564452+03:00",
+      "CompletedLessons": 0,
+      "WordsLearned": 0,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:46:30.6564452+03:00",
+      "CompletedLessonIds": [],
+      "WordPracticeCount": {},
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 9,
+      "Username": "Aleg3000",
+      "Email": "Aleg2000@mail.ru",
+      "Experience": 500,
+      "StreakDays": 0,
+      "Level": 2,
+      "RegistrationDate": "2025-12-02T14:48:35.4198744+03:00",
+      "CompletedLessons": 1,
+      "WordsLearned": 9,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T14:52:05.0677945+03:00",
+      "CompletedLessonIds": [
+        3
+      ],
+      "WordPracticeCount": {
+        "10": 1,
+        "9": 1,
+        "8": 1
+      },
+      "PasswordHash": "demo"
+    },
+    {
+      "Id": 10,
+      "Username": "Aleg2000",
+      "Email": "Aleg22000@mail.ru",
+      "Experience": 0,
+      "StreakDays": 0,
+      "Level": 1,
+      "RegistrationDate": "2025-12-02T15:01:12.0653793+03:00",
+      "CompletedLessons": 0,
+      "WordsLearned": 0,
+      "TotalTimeMinutes": 0,
+      "LastPracticeDate": "2025-12-02T15:01:12.0653793+03:00",
+      "CompletedLessonIds": [],
+      "WordPracticeCount": {},
+      "PasswordHash": "demo"
+    }
+  ],
+  "Words": [
+    {
+      "Id": 1,
+      "English": "Hello",
+      "Russian": "Привет",
+      "Category": "Основы",
+      "TimesPracticed": 17,
+      "LastPracticed": "2025-12-02T14:34:42.1327489+03:00",
+      "MasteryLevel": 2,
+      "LessonId": 1
+    },
+    {
+      "Id": 2,
+      "English": "Goodbye",
+      "Russian": "До свидания",
+      "Category": "Основы",
+      "TimesPracticed": 13,
+      "LastPracticed": "2025-12-02T14:34:33.6452119+03:00",
+      "MasteryLevel": 2,
+      "LessonId": 1
+    },
+    {
+      "Id": 3,
+      "English": "Thank you",
+      "Russian": "Спасибо",
+      "Category": "Основы",
+      "TimesPracticed": 10,
+      "LastPracticed": "2025-11-29T13:05:28.3282669+03:00",
+      "MasteryLevel": 2,
+      "LessonId": 1
+    },
+    {
+      "Id": 4,
+      "English": "Please",
+      "Russian": "Пожалуйста",
+      "Category": "Основы",
+      "TimesPracticed": 9,
+      "LastPracticed": "2025-12-02T14:34:53.2533604+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 1
+    },
+    {
+      "Id": 5,
+      "English": "Apple",
+      "Russian": "Яблоко",
+      "Category": "Еда",
+      "TimesPracticed": 9,
+      "LastPracticed": "2025-12-02T14:35:25.8946611+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 2
+    },
+    {
+      "Id": 6,
+      "English": "Bread",
+      "Russian": "Хлеб",
+      "Category": "Еда",
+      "TimesPracticed": 8,
+      "LastPracticed": "2025-12-02T14:35:38.7666438+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 2
+    },
+    {
+      "Id": 7,
+      "English": "Water",
+      "Russian": "Вода",
+      "Category": "Еда",
+      "TimesPracticed": 7,
+      "LastPracticed": "2025-12-02T14:35:31.0709341+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 2
+    },
+    {
+      "Id": 8,
+      "English": "Dog",
+      "Russian": "Собака",
+      "Category": "Животные",
+      "TimesPracticed": 12,
+      "LastPracticed": "2025-12-02T14:49:06.2845381+03:00",
+      "MasteryLevel": 2,
+      "LessonId": 3
+    },
+    {
+      "Id": 9,
+      "English": "Cat",
+      "Russian": "Кот",
+      "Category": "Животные",
+      "TimesPracticed": 11,
+      "LastPracticed": "2025-12-02T14:49:02.3886828+03:00",
+      "MasteryLevel": 2,
+      "LessonId": 3
+    },
+    {
+      "Id": 10,
+      "English": "Bird",
+      "Russian": "Птица",
+      "Category": "Животные",
+      "TimesPracticed": 6,
+      "LastPracticed": "2025-12-02T14:48:58.6371224+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 3
+    },
+    {
+      "Id": 11,
+      "English": "Family",
+      "Russian": "Семья",
+      "Category": "Семья",
+      "TimesPracticed": 5,
+      "LastPracticed": "2025-12-02T14:28:56.5273547+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 4
+    },
+    {
+      "Id": 12,
+      "English": "Mother",
+      "Russian": "Мама",
+      "Category": "Семья",
+      "TimesPracticed": 3,
+      "LastPracticed": "2025-12-02T14:29:03.6320097+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 4
+    },
+    {
+      "Id": 13,
+      "English": "Father",
+      "Russian": "Папа",
+      "Category": "Семья",
+      "TimesPracticed": 4,
+      "LastPracticed": "2025-12-02T14:29:10.6723128+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 4
+    },
+    {
+      "Id": 14,
+      "English": "Work",
+      "Russian": "Работа",
+      "Category": "Работа",
+      "TimesPracticed": 1,
+      "LastPracticed": "2025-11-17T13:05:28.3282669+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 5
+    },
+    {
+      "Id": 15,
+      "English": "Teacher",
+      "Russian": "Учитель",
+      "Category": "Работа",
+      "TimesPracticed": 1,
+      "LastPracticed": "2025-11-16T13:05:28.3282669+03:00",
+      "MasteryLevel": 1,
+      "LessonId": 5
+    }
+  ],
+  "Lessons": [
+    {
+      "Id": 1,
+      "Title": "Приветствия",
+      "Description": "Основные фразы для приветствия",
+      "IsCompleted": true,
+      "CompletedDate": "2025-11-17T13:05:28.3282669+03:00",
+      "Score": 95,
+      "OrderIndex": 1,
+      "RequiredWords": 4,
+      "ExperienceReward": 100
+    },
+    {
+      "Id": 2,
+      "Title": "Еда и напитки",
+      "Description": "Названия продуктов и блюд",
+      "IsCompleted": true,
+      "CompletedDate": "2025-11-14T13:05:28.3282669+03:00",
+      "Score": 88,
+      "OrderIndex": 2,
+      "RequiredWords": 3,
+      "ExperienceReward": 150
+    },
+    {
+      "Id": 3,
+      "Title": "Животные",
+      "Description": "Названия животных",
+      "IsCompleted": true,
+      "CompletedDate": "2025-11-10T13:05:28.3282669+03:00",
+      "Score": 92,
+      "OrderIndex": 3,
+      "RequiredWords": 3,
+      "ExperienceReward": 150
+    },
+    {
+      "Id": 4,
+      "Title": "Семья",
+      "Description": "Члены семьи и родственники",
+      "IsCompleted": false,
+      "CompletedDate": null,
+      "Score": 0,
+      "OrderIndex": 4,
+      "RequiredWords": 3,
+      "ExperienceReward": 200
+    },
+    {
+      "Id": 5,
+      "Title": "Работа",
+      "Description": "Профессии и рабочее место",
+      "IsCompleted": false,
+      "CompletedDate": null,
+      "Score": 0,
+      "OrderIndex": 5,
+      "RequiredWords": 2,
+      "ExperienceReward": 250
+    },
+    {
+      "Id": 6,
+      "Title": "Дом",
+      "Description": "Комнаты и предметы интерьера",
+      "IsCompleted": false,
+      "CompletedDate": null,
+      "Score": 0,
+      "OrderIndex": 6,
+      "RequiredWords": 4,
+      "ExperienceReward": 300
+    },
+    {
+      "Id": 7,
+      "Title": "Город",
+      "Description": "Городские объекты и транспорт",
+      "IsCompleted": false,
+      "CompletedDate": null,
+      "Score": 0,
+      "OrderIndex": 7,
+      "RequiredWords": 5,
+      "ExperienceReward": 350
+    }
+  ],
+  "Achievements": [
+    {
+      "Id": 1,
+      "UserId": 1,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-11-17T13:05:28.3292674+03:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 2,
+      "UserId": 1,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-11-12T13:05:28.3292674+03:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 3,
+      "UserId": 1,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-11-07T13:05:28.3292674+03:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 4,
+      "UserId": 1,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 5,
+      "UserId": 1,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T13:33:23.1144986+03:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 6,
+      "UserId": 1,
+      "Name": "Перфекционист",
+      "Description": "Получить 100% в 5 уроках",
+      "Icon": "💯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 5
+    },
+    {
+      "Id": 7,
+      "UserId": 1,
+      "Name": "Полиглот",
+      "Description": "Выучить 100 слов",
+      "Icon": "🌍",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 100
+    },
+    {
+      "Id": 8,
+      "UserId": 1,
+      "Name": "Мастер серий",
+      "Description": "30 дней практики подряд",
+      "Icon": "🏅",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 30
+    },
+    {
+      "Id": 9,
+      "UserId": 2,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-11-20T13:05:28.3292674+03:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 10,
+      "UserId": 2,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T13:34:42.3436957+03:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 11,
+      "UserId": 3,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 12,
+      "UserId": 3,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 13,
+      "UserId": 3,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 14,
+      "UserId": 3,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 15,
+      "UserId": 3,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 16,
+      "UserId": 4,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 17,
+      "UserId": 4,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 18,
+      "UserId": 4,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 19,
+      "UserId": 4,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 20,
+      "UserId": 4,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 21,
+      "UserId": 5,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 22,
+      "UserId": 5,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 23,
+      "UserId": 5,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 24,
+      "UserId": 5,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 25,
+      "UserId": 5,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 26,
+      "UserId": 6,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T14:29:11.4608248+03:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 27,
+      "UserId": 6,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 28,
+      "UserId": 6,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 29,
+      "UserId": 6,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 30,
+      "UserId": 6,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 31,
+      "UserId": 7,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T14:34:53.7992753+03:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 32,
+      "UserId": 7,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T14:35:38.7666438+03:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 33,
+      "UserId": 7,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 34,
+      "UserId": 7,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 35,
+      "UserId": 7,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 36,
+      "UserId": 8,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 37,
+      "UserId": 8,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 38,
+      "UserId": 8,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 39,
+      "UserId": 8,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 40,
+      "UserId": 8,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 41,
+      "UserId": 9,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": true,
+      "UnlockedDate": "2025-12-02T14:49:07.1063551+03:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 42,
+      "UserId": 9,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 43,
+      "UserId": 9,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 44,
+      "UserId": 9,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 45,
+      "UserId": 9,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    },
+    {
+      "Id": 46,
+      "UserId": 10,
+      "Name": "Первые шаги",
+      "Description": "Завершить первый урок",
+      "Icon": "🎯",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 47,
+      "UserId": 10,
+      "Name": "Словарный запас",
+      "Description": "Выучить 10 слов",
+      "Icon": "📚",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 10
+    },
+    {
+      "Id": 48,
+      "UserId": 10,
+      "Name": "Неделя практики",
+      "Description": "Заниматься 7 дней подряд",
+      "Icon": "🔥",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 7
+    },
+    {
+      "Id": 49,
+      "UserId": 10,
+      "Name": "Быстрый ученик",
+      "Description": "Завершить урок за рекордное время",
+      "Icon": "⚡",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 1
+    },
+    {
+      "Id": 50,
+      "UserId": 10,
+      "Name": "Эксперт перевода",
+      "Description": "Правильно перевести 50 слов",
+      "Icon": "🏆",
+      "IsUnlocked": false,
+      "UnlockedDate": "0001-01-01T00:00:00",
+      "RequiredValue": 50
+    }
+  ],
+  "LessonProgress": [
+    {
+      "UserId": 1,
+      "LessonId": 1,
+      "IsCompleted": true,
+      "Score": 95,
+      "CompletedDate": "2025-11-17T13:05:28.3292674+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 1,
+      "LessonId": 2,
+      "IsCompleted": true,
+      "Score": 88,
+      "CompletedDate": "2025-11-14T13:05:28.3292674+03:00",
+      "Attempts": 2
+    },
+    {
+      "UserId": 1,
+      "LessonId": 3,
+      "IsCompleted": true,
+      "Score": 92,
+      "CompletedDate": "2025-11-10T13:05:28.3292674+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 2,
+      "LessonId": 1,
+      "IsCompleted": true,
+      "Score": 90,
+      "CompletedDate": "2025-11-20T13:05:28.3292674+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 2,
+      "LessonId": 2,
+      "IsCompleted": true,
+      "Score": 85,
+      "CompletedDate": "2025-11-22T13:05:28.3292674+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 1,
+      "LessonId": 4,
+      "IsCompleted": false,
+      "Score": 0,
+      "CompletedDate": "0001-01-01T00:00:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 6,
+      "LessonId": 4,
+      "IsCompleted": true,
+      "Score": 100,
+      "CompletedDate": "2025-12-02T14:29:11.4588256+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 7,
+      "LessonId": 1,
+      "IsCompleted": true,
+      "Score": 75,
+      "CompletedDate": "2025-12-02T14:34:53.7982755+03:00",
+      "Attempts": 2
+    },
+    {
+      "UserId": 7,
+      "LessonId": 3,
+      "IsCompleted": false,
+      "Score": 0,
+      "CompletedDate": "0001-01-01T00:00:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 7,
+      "LessonId": 2,
+      "IsCompleted": true,
+      "Score": 100,
+      "CompletedDate": "2025-12-02T14:35:39.248402+03:00",
+      "Attempts": 2
+    },
+    {
+      "UserId": 9,
+      "LessonId": 3,
+      "IsCompleted": true,
+      "Score": 100,
+      "CompletedDate": "2025-12-02T14:49:07.1033545+03:00",
+      "Attempts": 1
+    },
+    {
+      "UserId": 9,
+      "LessonId": 1,
+      "IsCompleted": false,
+      "Score": 0,
+      "CompletedDate": "0001-01-01T00:00:00",
+      "Attempts": 1
+    }
+  ]
+}
