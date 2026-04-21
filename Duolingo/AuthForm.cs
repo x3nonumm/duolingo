@@ -26,14 +26,11 @@ namespace Duolingo
             this.dbHelper = dbHelper;
             InitializeForm();
             ShowLoginPanel();
-        }
-
-        // Этот метод должен возвращать ОБНОВЛЕННОГО пользователя из базы
+        }      
         public User GetAuthenticatedUser()
         {
             if (currentUser != null)
-            {
-                // Получаем свежие данные из базы
+            
                 return dbHelper.GetUserById(currentUser.Id);
             }
             return currentUser;
@@ -48,7 +45,6 @@ namespace Duolingo
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
 
-            // Заголовок
             var titleLabel = new Label
             {
                 Text = "Duolingo",
@@ -67,7 +63,6 @@ namespace Duolingo
                 ForeColor = Color.Gray
             };
 
-            // Статус
             lblStatus = new Label
             {
                 Location = new Point(50, 120),
@@ -76,7 +71,6 @@ namespace Duolingo
                 Font = new Font("Arial", 10)
             };
 
-            // Панель входа
             loginPanel = new Panel
             {
                 Location = new Point(50, 160),
@@ -86,7 +80,6 @@ namespace Duolingo
 
             CreateLoginPanel();
 
-            // Панель регистрации
             registerPanel = new Panel
             {
                 Location = new Point(50, 160),
